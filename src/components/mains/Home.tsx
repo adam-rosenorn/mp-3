@@ -34,7 +34,7 @@ export default function Home() {
             <title>Home | Resume</title>
             <StyledMain>
                 <StyledHeader>Home</StyledHeader>
-                <StyledImage src="public/main-photo.jpg" alt="Adam Rosenorn"/>
+                <StyledImage src="../../../public/main-photo.jpg" alt="Adam Rosenorn"/>
                 <StyledMainText>
                     My name is Adam Rosenorn, and I am a student at the <strong>IT University of Copenhagen</strong>,
                     where I am almost done with my Bachelor's degree in <strong>Data Science</strong>.
