@@ -14,14 +14,14 @@ export default function Education() {
         <StyledMain>
             <StyledHeader>Education</StyledHeader>
             <StyledAlign>
-                <StyledLogo src="public/eg.jpg" alt="Espergaerde Gymnasium's logo"/>
+                <StyledLogo src="/eg.jpg" alt="Espergaerde Gymnasium's logo"/>
                 <StyledText>
                     <h3>Espergærde Gymnasium | 2018-2021</h3>
                     <p>Upper Secondary Education in Espergærde, Denmark</p>
                 </StyledText>
             </StyledAlign>
             <StyledAlign>
-                <StyledLogo src="public/itu.jpg" alt="IT University of Copenhagen's logo"/>
+                <StyledLogo src="/itu.jpg" alt="IT University of Copenhagen's logo"/>
                 <StyledText>
                     <h3>IT University of Copenhagen | 2022-Now</h3>
                     <p>Bachelor of Science in Data Science. Copenhagen, Denmark</p>

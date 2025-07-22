@@ -12,7 +12,7 @@ export default function Volunteering() {
         <StyledMain>
             <StyledHeader>Volunteering</StyledHeader>
             <StyledAlign>
-                <StyledLogo src="public/hb.jpg" alt="Humlebaek Boldklubs's logo"/>
+                <StyledLogo src="/hb.jpg" alt="Humlebaek Boldklubs's logo"/>
                 <StyledText>
                     <h3>Summer Camp Coach | Humlebæk Boldklub</h3>
                     <p>Summer 2018 and Summer 2019</p>
@@ -22,7 +22,7 @@ export default function Volunteering() {
                 </StyledText>
             </StyledAlign>
             <StyledAlign>
-                <StyledLogo src="public/bread-of-life.jpg" alt="Bread of Life's logo"/>
+                <StyledLogo src="/bread-of-life.jpg" alt="Bread of Life's logo"/>
                 <StyledText>
                     <h3>Volunteer Helper | Bread of Life - Malden, MA</h3>
                     <p>March 2022 - May 2022</p>
@@ -32,7 +32,7 @@ export default function Volunteering() {
                 </StyledText>
             </StyledAlign>
             <StyledAlign>
-                <StyledLogo src="public/itu.jpg" alt="IT University of Copenhagen's logo"/>
+                <StyledLogo src="/itu.jpg" alt="IT University of Copenhagen's logo"/>
                 <StyledText>
                     <h3>Tutor | IT University of Copenhagen</h3>
                     <p>Summer/Fall 2024</p>

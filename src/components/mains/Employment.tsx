@@ -13,7 +13,7 @@ export default function Employment() {
         <StyledMain>
             <StyledHeader>Employment</StyledHeader>
             <StyledAlign>
-                <StyledLogo src="public/itu.jpg" alt="IT University of Copenhagen's logo"/>
+                <StyledLogo src="/itu.jpg" alt="IT University of Copenhagen's logo"/>
                 <StyledText>
                     <h3>Teaching Assistant | IT University of Copenhagen</h3>
                     <p>Fall 2024</p>
@@ -24,7 +24,7 @@ export default function Employment() {
                 </StyledText>
             </StyledAlign>
             <StyledAlign>
-                <StyledLogo src="public/hovmand.jpg" alt="Hovmand's logo"/>
+                <StyledLogo src="/hovmand.jpg" alt="Hovmand's logo"/>
                 <StyledText>
                     <h3>Student Assistant in Digitalization and IT | Hovmand</h3>
                     <p>March 2025 - Present</p>
